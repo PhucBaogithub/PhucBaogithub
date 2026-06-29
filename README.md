@@ -2,23 +2,36 @@
 
 ## AI Engineer | Data Science Student | Machine Learning Enthusiast
 
-Final-year Data Science student at HUFLIT, based in Ho Chi Minh City, Vietnam. I am interested in applying data science, machine learning, and analytics to solve practical business and technical problems.
+Final-year Data Science student at **HUFLIT**, based in Ho Chi Minh City, Vietnam.
 
-# About Me
-----
-I have experience working with data analysis, machine learning, web development, and internal software systems. My background includes building dashboards, processing data, training basic machine learning models, and working with Git/GitHub for source code management.
+I am passionate about Artificial Intelligence, Machine Learning, and Data Science, with a strong interest in developing practical AI applications that solve real-world problems.
 
-Currently, I am looking for internship or entry-level opportunities in:
+Currently, I am seeking internship and entry-level opportunities in Artificial Intelligence, Machine Learning, and Data Science.
 
-* Data Science
-* Data Analytics
-* Machine Learning
+## About Me
+
+I have experience working with data analysis, machine learning, web development, and internal software systems.
+
+My academic and personal projects include Retrieval-Augmented Generation (RAG), Computer Vision, Deep Learning, ERP customization, and AI-powered applications.
+
+I enjoy learning new technologies and continuously improving my software engineering and AI development skills.
+
+### Career Interests
+
 * AI Engineer
 * AI Software Developer
+* Machine Learning Engineer
+* Data Scientist
+* Data Analyst
 
-# Technical Skills
-----
-Programming Languages: Python, R, JavaScript, C# Data Science & Machine Learning: Pandas, NumPy, Scikit-learn, Jupyter Notebook Web Development: React, Node.js Databases: SQL, MongoDB Tools: Git, GitHub, Dashboard Development, Data Visualization
+## Technical Skills
+
+### Programming Languages
+
+* Python
+* R
+* JavaScript
+* C#
 
 ### Artificial Intelligence
 
@@ -44,6 +57,7 @@ Programming Languages: Python, R, JavaScript, C# Data Science & Machine Learning
 * MySQL
 * Firebase
 * MongoDB
+* PostgreSQL
 
 ### Tools
 
@@ -53,14 +67,15 @@ Programming Languages: Python, R, JavaScript, C# Data Science & Machine Learning
 * VS Code
 * Jupyter Notebook
 * Postman
+* Swagger
 
-----
-# Featured Projects
+## Featured Projects
 
 ### RAG Chatbot with Gemini + FAISS
-AI chatbot capable of answering questions from uploaded PDF documents.
 
-Features:
+A Retrieval-Augmented Generation chatbot capable of answering questions from uploaded PDF documents.
+
+**Main Features**
 
 * PDF Upload
 * Automatic Knowledge Base Generation
@@ -71,7 +86,7 @@ Features:
 * Source Citation
 * Chat History
 
-Technologies:
+**Technologies**
 
 * Python
 * FastAPI
@@ -80,33 +95,29 @@ Technologies:
 * FAISS
 * Google Gemini
 
-----
 ### Chess Piece Recognition
+
 Deep Learning model for chess piece classification using CNN and Transfer Learning.
 
-Technologies:
+**Technologies**
 
 * PyTorch
 * ResNet
 * MobileNet
 * EfficientNet
 
----
-
 ### Odoo ERP Customization
 
-Developed custom ERP modules including debt management, invoice customization and reporting.
+Developed ERP modules including debt management, invoice customization, reporting dashboards, and API integration.
 
-Technologies:
+**Technologies**
 
 * Odoo
 * Python
 * PostgreSQL
 * Swagger
 
-----
-
-# Currently Learning
+## Currently Learning
 
 * Large Language Models (LLMs)
 * Agentic AI
@@ -115,29 +126,21 @@ Technologies:
 * AWS
 * Kubernetes
 
-----
-# GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=PhucBaogithub&show_icons=true&theme=github_dark" />
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhucBaogithub&layout=compact&theme=github_dark" />
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=PhucBaogithub&theme=github-dark" />
-
 </p>
 
-----
-# Contact
+## Contact
 
-* Email: baominecraft12344@gmail.com
-* GitHub: https://github.com/PhucBaogithub
-* LinkedIn: https://www.linkedin.com/in/phuc-bao-31a756354/
+* Email: **[baominecraft12344@gmail.com](mailto:baominecraft12344@gmail.com)**
+* GitHub: **https://github.com/PhucBaogithub**
+* LinkedIn: **https://www.linkedin.com/in/phuc-bao-31a756354/**
 
-----
-> "Open to internship opportunities, collaborative projects, and entry-level roles in data and technology."
+> Open to internship opportunities, collaborative projects, and entry-level roles in Artificial Intelligence, Machine Learning, Data Science, and Software Development.
