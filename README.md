@@ -1,48 +1,25 @@
-# Hello, I'm Phúc Bảo
+# Huynh Phuc Bao
 
 ## AI Engineer | Data Science Student | Machine Learning Enthusiast
 
-Final-year **Data Science** student at **HUFLIT (Ho Chi Minh City University of Foreign Languages and Information Technology)**.
-
-I enjoy building practical AI applications, especially projects involving:
-
-* Retrieval-Augmented Generation (RAG)
-* Large Language Models (LLMs)
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Natural Language Processing
-* Data Analytics
-
-Currently, I am looking for internship and entry-level opportunities in:
-
-* AI Engineer
-* Machine Learning Engineer
-* Data Scientist
-* Data Analyst
-
----
+Final-year Data Science student at HUFLIT, based in Ho Chi Minh City, Vietnam. I am interested in applying data science, machine learning, and analytics to solve practical business and technical problems.
 
 # About Me
+----
 
-* Final-year Data Science student at HUFLIT
-* Passionate about Artificial Intelligence and Machine Learning
-* Interested in building real-world AI applications
-* Experienced with FastAPI, Streamlit, FAISS and Google Gemini
-* Familiar with Docker, Git and GitHub
-* Continuously learning new AI technologies
+I have experience working with data analysis, machine learning, web development, and internal software systems. My background includes building dashboards, processing data, training basic machine learning models, and working with Git/GitHub for source code management.
 
----
+Currently, I am looking for internship or entry-level opportunities in:
+
+Data Science
+Data Analytics
+Machine Learning
+AI Engineer
+AI Software Developer
 
 # Technical Skills
-
-### Programming Languages
-
-* Python
-* SQL
-* Java
-* C#
-* JavaScript
+----
+Programming Languages: Python, R, JavaScript, C# Data Science & Machine Learning: Pandas, NumPy, Scikit-learn, Jupyter Notebook Web Development: React, Node.js Databases: SQL, MongoDB Tools: Git, GitHub, Dashboard Development, Data Visualization
 
 ### Artificial Intelligence
 
