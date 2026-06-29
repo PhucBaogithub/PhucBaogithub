@@ -115,7 +115,6 @@ Developed ERP modules including debt management, invoice customization, reportin
 * Odoo
 * Python
 * PostgreSQL
-* Swagger
 
 ## Currently Learning
 
