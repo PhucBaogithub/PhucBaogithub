@@ -6,16 +6,15 @@ Final-year Data Science student at HUFLIT, based in Ho Chi Minh City, Vietnam. I
 
 # About Me
 ----
-
 I have experience working with data analysis, machine learning, web development, and internal software systems. My background includes building dashboards, processing data, training basic machine learning models, and working with Git/GitHub for source code management.
 
 Currently, I am looking for internship or entry-level opportunities in:
 
-Data Science
-Data Analytics
-Machine Learning
-AI Engineer
-AI Software Developer
+* Data Science
+* Data Analytics
+* Machine Learning
+* AI Engineer
+* AI Software Developer
 
 # Technical Skills
 ----
@@ -55,12 +54,10 @@ Programming Languages: Python, R, JavaScript, C# Data Science & Machine Learning
 * Jupyter Notebook
 * Postman
 
----
-
+----
 # Featured Projects
 
 ### RAG Chatbot with Gemini + FAISS
-
 AI chatbot capable of answering questions from uploaded PDF documents.
 
 Features:
@@ -83,10 +80,8 @@ Technologies:
 * FAISS
 * Google Gemini
 
----
-
+----
 ### Chess Piece Recognition
-
 Deep Learning model for chess piece classification using CNN and Transfer Learning.
 
 Technologies:
@@ -107,8 +102,9 @@ Technologies:
 * Odoo
 * Python
 * PostgreSQL
+* Swagger
 
----
+----
 
 # Currently Learning
 
@@ -119,8 +115,7 @@ Technologies:
 * AWS
 * Kubernetes
 
----
-
+----
 # GitHub Statistics
 
 <p align="center">
@@ -137,14 +132,12 @@ Technologies:
 
 </p>
 
----
-
+----
 # Contact
 
 * Email: baominecraft12344@gmail.com
 * GitHub: https://github.com/PhucBaogithub
 * LinkedIn: https://www.linkedin.com/in/phuc-bao-31a756354/
 
----
-
-> "Learning AI by building real-world applications."
+----
+> "Open to internship opportunities, collaborative projects, and entry-level roles in data and technology."
